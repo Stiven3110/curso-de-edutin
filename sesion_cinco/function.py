@@ -1,5 +1,6 @@
 #funciones
 
+
 def my_function(age, name = 'Stiven' ):
     print('Hola ' + name + 'your age is ' + str(age) + '!')
 
@@ -20,3 +21,4 @@ def recursion(k):
     return result
 
 recursion(7)
+
